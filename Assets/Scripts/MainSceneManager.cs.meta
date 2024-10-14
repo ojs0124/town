@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c186d77fc95a10d4786b8358b74c5b58
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - knightPrefab: {fileID: 5002857128484796705, guid: 5413e3e49e3782d45bb0e291b0197e79, type: 3}
+  - samuraiPrefab: {fileID: 9045808658373236508, guid: 19d4f0387f8e50e40bd4b526ed63115e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
